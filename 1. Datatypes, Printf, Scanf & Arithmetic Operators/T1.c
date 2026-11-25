@@ -23,7 +23,7 @@
 
 #include <stdio.h>
 int main(){
-    char name_letter;
+    char name_letter;   
     int pincode;
     float height;
     double latitude, longitude;
